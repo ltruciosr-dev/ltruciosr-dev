@@ -6,7 +6,7 @@
 
 #### A Machine Learning Engineer by day ☼ and a Deep Learning and Robotics Researcher by night ☾
 
-+ Machine learning engineer at [Tenpo](https://www.tenpo.cl/).
-+ IA & Robotics researcher at UTEC.
++ Computer Vision / ML Engineer at Glacier.
+
 
 🎧 Focusing on deep learning and robotics.
